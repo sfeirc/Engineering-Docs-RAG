@@ -1,0 +1,19 @@
+SYNTHETIC EXAMPLE DOCUMENT -- Generic Maintenance Procedure
+Title: Centrifugal Pump Mechanical Seal Maintenance Procedure
+
+Purpose
+This generic procedure describes routine inspection and replacement of a cartridge-style mechanical seal on a centrifugal pump such as Pump CP-100. Synthetic and illustrative only.
+
+Routine inspection
+1. Visually inspect the seal area for visible leakage, weeping, or crystallized product buildup at every operator round.
+2. Monitor the seal flush system (e.g. Plan 11 flush as fitted to Pump CP-100) for correct flow and pressure differential per the pump's datasheet.
+3. Log any detected leakage, however minor, for trending; a seal that has started leaking rarely stops on its own and the trend matters more than any single reading.
+
+Seal replacement (requires equipment shutdown and isolation)
+1. Isolate and lock out the pump per the Lockout-Tagout procedure; drain the casing and depressurize the seal chamber.
+2. Remove the coupling guard and coupling, then withdraw the cartridge seal assembly per the manufacturer's instructions, taking care not to damage the shaft sleeve.
+3. Inspect the shaft sleeve and stuffing box bore for wear, scoring, or corrosion before installing the replacement seal.
+4. Install the new cartridge seal, verify the setting dimension against the manufacturer's specification, and reassemble the coupling with a proper alignment check.
+5. Restore the flush system, remove isolation, and start the pump per normal start-up procedure, then monitor the new seal closely for the first 24 hours of operation.
+
+This is a synthetic example procedure created for a retrieval-augmented-generation demo corpus. It is illustrative only and must not be used as an actual operating instruction.

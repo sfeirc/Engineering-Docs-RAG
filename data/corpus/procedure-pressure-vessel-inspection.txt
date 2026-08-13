@@ -1,0 +1,18 @@
+SYNTHETIC EXAMPLE DOCUMENT -- Generic Inspection Procedure
+Title: Pressure Vessel In-Service and Out-of-Service Inspection Procedure
+
+Purpose
+This generic procedure describes periodic inspection of pressure vessels and pressure-containing equipment (such as Heat Exchanger HX-500's shell and tube bundle, and the barrel casing of Compressor CC-300), in the spirit of API 510-style pressure vessel inspection practice. Synthetic and illustrative only, and not a substitute for a jurisdiction's actual inspection code or a site-specific inspection plan.
+
+Inspection categories
+- External inspection (in-service): visual inspection of the vessel exterior, insulation condition, nozzle connections and supports, typically at a shorter interval than internal inspection.
+- Internal / on-stream inspection: for accessible vessels, internal visual and thickness (ultrasonic) inspection performed while the vessel remains in a safe, isolated, gas-freed condition without full disassembly.
+- Out-of-service inspection: full internal inspection with the vessel opened, cleaned and gas-freed, typically including thickness surveys at multiple grid points, weld inspection, and review against the vessel's original design/fabrication records.
+
+Interval setting
+Inspection intervals are set from a documented corrosion-rate calculation (measured wall-thickness loss over time) and a remaining-life estimate, not from a single fixed calendar rule -- a vessel with a higher measured corrosion rate is inspected more frequently than one with a low or negligible rate, subject to any regulatory maximum interval that applies.
+
+Records
+Every inspection produces a report recording thickness readings, findings, any repairs performed, and the next recommended inspection date, which becomes an input to the following interval-setting calculation.
+
+This is a synthetic example procedure created for a retrieval-augmented-generation demo corpus. It is illustrative only and must not be used as an actual operating instruction.

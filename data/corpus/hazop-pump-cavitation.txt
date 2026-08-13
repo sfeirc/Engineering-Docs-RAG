@@ -1,0 +1,17 @@
+SYNTHETIC EXAMPLE DOCUMENT -- HAZOP Report Excerpt (fictional study, for demo purposes only)
+Study: HAZOP Study -- Booster Pump Station A (fictional facility, no relation to any real facility)
+Node: Node 1 -- Pump CP-100 suction
+
+Guideword: LESS PRESSURE (suction)
+Cause: Upstream strainer partially blocked, upstream tank level low, or suction line partially blocked by debris.
+Consequence: Available NPSH at the pump suction falls below the pump's required NPSH (NPSHr, see Pump CP-100 datasheet), causing cavitation: vapor bubble formation and violent collapse inside the pump, resulting in noise, vibration, and accelerated impeller/wear-ring erosion damage over time.
+Safeguards: Suction pressure low alarm; vibration monitoring with alarm and trip setpoints per the pump datasheet; routine strainer differential-pressure monitoring that would indicate progressive blockage before it becomes severe.
+Recommendation: Consider adding a dedicated suction-strainer differential-pressure alarm if not already present, since differential pressure trending would give earlier warning than a suction pressure alarm alone (action assigned to instrumentation engineering, fictional example).
+
+Guideword: MORE FLOW
+Cause: Downstream control valve opens further than intended, or a second pump is brought online in parallel unexpectedly.
+Consequence: Pump operates below its minimum continuous stable flow (MCSF, see Pump CP-100 datasheet), risking internal recirculation damage and accelerated seal wear even without classical suction cavitation.
+Safeguards: Low-flow alarm; minimum-flow recirculation line sized to maintain flow above MCSF whenever main flow drops low.
+Recommendation: Verify the minimum-flow recirculation line's automatic control logic actually opens fast enough to protect the pump during a rapid downstream flow loss (action assigned to process control engineering, fictional example).
+
+This is a synthetic, fictional HAZOP excerpt created for a retrieval-augmented-generation demo corpus. It does not describe any real facility, real incident, or real HAZOP study.

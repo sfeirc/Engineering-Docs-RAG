@@ -1,0 +1,26 @@
+SYNTHETIC EXAMPLE DOCUMENT -- Equipment Datasheet
+Equipment: Storage Tank, Tag TK-600
+Service: Intermediate crude oil storage
+
+General
+- Type: External floating roof tank, API 650 style (illustrative)
+- Nominal capacity: 50000 m3
+- Diameter: 42 m, shell height: 19.5 m
+- Design: atmospheric, non-refrigerated
+- Roof seal type: mechanical shoe primary seal with rim-mounted secondary wiper seal
+
+Level instrumentation and protection
+- Primary level gauge: servo-driven tank gauge, tied to the tank inventory system
+- High level alarm: 95% of shell height
+- High-high level trip (closes the inlet motor-operated valve automatically): 97.5% of shell height
+- Independent overfill protection system per API 2350 style philosophy (illustrative), separate from the inventory-system level gauge
+
+Fire protection
+- Fixed foam chamber system on the shell, actuated from the fire and gas system or manually from the local fire water ring main
+- Foam concentrate: 3% AFFF-type (illustrative)
+
+Maintenance interval
+- Roof seal inspection: every 12 months
+- Full API 653-style out-of-service tank inspection: every 10 years, or sooner based on corrosion-rate monitoring results
+
+This is a synthetic example datasheet created for a retrieval-augmented-generation demo corpus. It does not describe a real, purchasable product or a real Aramco asset.

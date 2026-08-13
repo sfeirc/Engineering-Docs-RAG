@@ -1,0 +1,18 @@
+SYNTHETIC EXAMPLE DOCUMENT -- Generic Maintenance Procedure
+Title: Corrosion Monitoring Procedure
+
+Purpose
+This generic procedure describes routine corrosion monitoring feeding into the pressure vessel and piping inspection interval-setting process. Synthetic and illustrative only.
+
+Monitoring methods
+1. Corrosion coupons: metal samples of representative material exposed to the process stream and removed periodically for weight-loss measurement, giving a direct corrosion-rate estimate for that location.
+2. Ultrasonic thickness (UT) monitoring: fixed measurement points on piping and vessels (e.g. on Storage Tank TK-600's shell courses and Heat Exchanger HX-500's shell) read on a set interval to trend wall-thickness loss over time.
+3. Online corrosion probes (e.g. electrical resistance probes) at selected high-risk locations, providing a near-continuous corrosion-rate trend rather than periodic spot readings.
+
+Using the results
+A measured corrosion rate is compared against the design corrosion allowance for the component to estimate remaining life. A corrosion rate significantly higher than the design assumption triggers a review of the affected component's inspection interval and, where warranted, a metallurgical or process-chemistry investigation into the root cause -- it is not simply logged and left for the next scheduled inspection.
+
+Reporting
+Corrosion monitoring results feed directly into the interval-setting step of the Pressure Vessel Inspection Procedure; the two procedures are designed to be read together.
+
+This is a synthetic example procedure created for a retrieval-augmented-generation demo corpus. It is illustrative only and must not be used as an actual operating instruction.

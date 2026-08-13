@@ -1,0 +1,30 @@
+SYNTHETIC EXAMPLE DOCUMENT -- Equipment Datasheet
+Equipment: Centrifugal Pump, Tag CP-100
+Service: Crude oil transfer, booster pump station A
+
+General
+- Type: Horizontal, single-stage, end-suction centrifugal pump, API 610 OH2 style (illustrative, not a real vendor datasheet)
+- Manufacturer: (synthetic / example only)
+- Rated capacity: 250 m3/h at rated head of 180 m
+- Maximum discharge pressure: 18 bar g
+- Suction pressure (design): 4 bar g
+- Design temperature: -10 C to 120 C
+- Driver: 355 kW electric motor, 2980 rpm, IE3 efficiency class
+
+Materials
+- Casing: ASTM A216 WCB carbon steel
+- Impeller: ASTM A743 CA6NM stainless steel
+- Shaft: AISI 4140 alloy steel
+- Mechanical seal: Single cartridge seal, API 682 Category 2, Plan 11 flush
+
+Operating notes
+- Minimum continuous stable flow (MCSF): 60 m3/h. Sustained operation below MCSF risks internal recirculation, vibration and seal damage.
+- Net Positive Suction Head required (NPSHr) at rated flow: 4.2 m. Available NPSH at the suction nozzle must exceed NPSHr with margin to avoid cavitation.
+- Vibration alarm setpoint: 7.1 mm/s RMS; trip setpoint: 11.0 mm/s RMS (per ISO 10816-7 style zone boundaries, illustrative).
+- Bearing lubrication: oil ring, ISO VG 46 turbine oil, change interval 8000 operating hours or 12 months.
+
+Maintenance interval
+- Mechanical seal inspection: every 12 months or on any detected leakage.
+- Alignment check (laser shaft alignment): after any coupling disturbance and at each major overhaul.
+
+This is a synthetic example datasheet created for a retrieval-augmented-generation demo corpus. It does not describe a real, purchasable product or a real Aramco asset.

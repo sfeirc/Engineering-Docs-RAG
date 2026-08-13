@@ -1,0 +1,17 @@
+SYNTHETIC EXAMPLE DOCUMENT -- HAZOP Report Excerpt (fictional study, for demo purposes only)
+Study: HAZOP Study -- Gas Compressor Station (fictional facility, no relation to any real facility)
+Node: Node 7 -- Compressor CC-300 discharge, upstream of the export metering skid
+
+Guideword: MORE PRESSURE
+Cause: Anti-surge/recycle control valve (Control Valve CV-700) fails closed while compressor speed control does not respond quickly enough, or a downstream export valve inadvertently closes.
+Consequence: Rapid discharge pressure rise; if uncontrolled, risk of overpressure of downstream piping and equipment rated below the compressor's maximum achievable discharge pressure.
+Safeguards: Discharge pressure high-high trip (via Pressure Transmitter PT-800, 2-out-of-3 voted) shutting down the compressor train; downstream pressure relief valve protecting piping rated below compressor shut-in pressure.
+Recommendation: Confirm the downstream piping and equipment pressure rating against the compressor's true maximum achievable shut-in discharge pressure, not only against the normal operating discharge pressure (action assigned to process/mechanical engineering, fictional example).
+
+Guideword: NO FLOW
+Cause: Suction block valve closes unexpectedly, or a control system fault demands zero flow while the compressor keeps running.
+Consequence: Compressor surge (see Compressor Surge Control Procedure) with potential mechanical damage to bearings and blading.
+Safeguards: Anti-surge control system and fast-acting recycle valve (Control Valve CV-700); vibration monitoring with automatic trip on high vibration.
+Recommendation: Verify the anti-surge valve's actual full-stroke time in the field against its design value at the next turnaround (action assigned to instrumentation, fictional example).
+
+This is a synthetic, fictional HAZOP excerpt created for a retrieval-augmented-generation demo corpus. It does not describe any real facility, real incident, or real HAZOP study.

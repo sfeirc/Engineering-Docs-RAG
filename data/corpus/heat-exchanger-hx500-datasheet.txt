@@ -1,0 +1,22 @@
+SYNTHETIC EXAMPLE DOCUMENT -- Equipment Datasheet
+Equipment: Shell-and-Tube Heat Exchanger, Tag HX-500
+Service: Interstage gas cooling, downstream of Compressor RC-200 stage 1
+
+General
+- Type: TEMA style AES, shell-and-tube, single shell pass / two tube passes (illustrative)
+- Shell side fluid: cooling water; Tube side fluid: process gas
+- Design pressure: shell side 10 bar g, tube side 60 bar g
+- Design temperature: 180 C maximum
+- Heat duty (design): 2.1 MW
+- Tube material: 316 stainless steel, shell material: carbon steel
+
+Operating notes
+- Fouling factor assumed in design: 0.0002 (m2 K)/W tube side (process gas), 0.0004 (m2 K)/W shell side (cooling water)
+- Cooling water inlet temperature (design basis): 32 C; outlet temperature: 45 C
+- Tube-side pressure drop (clean, design flow): 0.6 bar
+
+Maintenance interval
+- Tube bundle inspection and cleaning: every 24 months, or when approach temperature rises more than 5 C above the design value (an indicator of fouling)
+- Hydrostatic retest of the tube bundle: at each major turnaround, per the pressure vessel inspection procedure
+
+This is a synthetic example datasheet created for a retrieval-augmented-generation demo corpus. It does not describe a real, purchasable product or a real Aramco asset.

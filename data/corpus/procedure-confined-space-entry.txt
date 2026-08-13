@@ -1,0 +1,24 @@
+SYNTHETIC EXAMPLE DOCUMENT -- Generic Safety Procedure
+Title: Confined Space Entry Procedure
+
+Purpose
+This generic procedure describes the minimum requirements for safe entry into a confined space (such as a storage tank, vessel, or below-grade pit) where the atmosphere may be hazardous or oxygen-deficient. Synthetic and illustrative only.
+
+Definitions
+A confined space, for this procedure, is any space large enough for a person to enter, with limited means of entry/exit, that is not designed for continuous occupancy -- for example the interior of Storage Tank TK-600 during an out-of-service inspection.
+
+Required steps before entry
+1. Obtain a confined space entry permit, valid for a single shift only, signed by an authorized permit issuer.
+2. Isolate the space from all hazardous energy per the Lockout-Tagout procedure (electrical, mechanical, and process isolation including blinding or double block-and-bleed of process connections).
+3. Ventilate the space mechanically and test the atmosphere before entry for: oxygen (must read 19.5% to 23.5%), flammable gas (must read below 10% of the lower explosive limit), and toxic gases relevant to the space's service (e.g. H2S, must read below the applicable exposure limit).
+4. Continue atmospheric monitoring throughout the entry, not just before it.
+5. Station a dedicated attendant outside the space at all times entry is in progress; the attendant does not enter the space and maintains communication with the entrant(s).
+6. Ensure rescue equipment (retrieval line/harness, and a means to summon rescue) is in place before entry begins.
+
+PPE and equipment
+Entrants wear, at minimum, the PPE specified in the PPE Requirements procedure for the specific hazards of the space, plus a full-body harness with retrieval line for vertical entries.
+
+Emergency response
+If the atmosphere alarm activates or an entrant reports distress, all entrants evacuate immediately; the attendant does not enter the space to attempt rescue and instead activates the emergency response plan.
+
+This is a synthetic example procedure created for a retrieval-augmented-generation demo corpus. It is illustrative only and must not be used as an actual operating instruction.

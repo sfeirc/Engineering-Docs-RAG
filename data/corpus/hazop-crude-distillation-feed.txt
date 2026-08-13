@@ -1,0 +1,17 @@
+SYNTHETIC EXAMPLE DOCUMENT -- HAZOP Report Excerpt (fictional study, for demo purposes only)
+Study: HAZOP Study -- Crude Distillation Unit, Feed Preheat Section (fictional unit, no relation to any real facility)
+Node: Node 3 -- Crude feed preheat train, upstream of the fired heater
+
+Guideword: MORE FLOW
+Cause: Feed control valve fails open, or feed pump (analogous to Pump CP-100 in this corpus) runs at higher-than-intended speed due to a control system fault.
+Consequence: Reduced preheat train residence time, lower preheat outlet temperature, increased fired heater duty required to reach target coil outlet temperature; in the worst case, coking risk at the heater tubes if firing is increased faster than the process can accommodate.
+Safeguards: Flow high alarm on the feed line; fired heater tube-skin temperature high alarm and trip; operator response procedure for preheat train upsets.
+Recommendation: Confirm the feed flow high alarm setpoint provides adequate operator response time before the tube-skin high-high trip; consider whether an independent flow-limiting restriction orifice is warranted (action assigned to process engineering, fictional example).
+
+Guideword: LESS FLOW
+Cause: Feed pump trip, or partial blockage of a preheat exchanger.
+Consequence: Reduced throughput; if severe and undetected, risk of localized overheating in fired heater tubes due to insufficient flow to carry away heat.
+Safeguards: Feed pump trip alarms; fired heater low feed-flow interlock (trips firing on sustained low flow).
+Recommendation: None additional; existing safeguards judged adequate in this fictional example study.
+
+This is a synthetic, fictional HAZOP excerpt created for a retrieval-augmented-generation demo corpus. It does not describe any real facility, real incident, or real HAZOP study.

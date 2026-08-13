@@ -1,0 +1,50 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "engineering-rag"
+version = "0.1.0"
+description = "A from-scratch BM25 retrieval pipeline for engineering documents (equipment datasheets, safety procedures, HAZOP excerpts), with a pluggable no-LLM-required extractive generator."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Clovis Sfeir" }]
+keywords = ["rag", "retrieval-augmented-generation", "bm25", "information-retrieval", "search", "engineering-documents", "hazop"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.12",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Text Processing :: Indexing",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
+
+# Zero runtime dependencies, deliberately: the retrieval pipeline (chunking,
+# tokenizing, BM25, the extractive generator, and the CLI) is built entirely
+# on the Python standard library. See README for why.
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-benchmark>=4.0",
+    "ruff>=0.6",
+]
+
+[project.scripts]
+engineering-rag = "engineering_rag.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py312"
+extend-exclude = ["*.md"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

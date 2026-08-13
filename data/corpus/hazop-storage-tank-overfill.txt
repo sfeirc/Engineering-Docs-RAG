@@ -1,0 +1,17 @@
+SYNTHETIC EXAMPLE DOCUMENT -- HAZOP Report Excerpt (fictional study, for demo purposes only)
+Study: HAZOP Study -- Crude Storage Area (fictional facility, no relation to any real facility)
+Node: Node 2 -- Storage Tank TK-600 filling operation
+
+Guideword: MORE LEVEL
+Cause: Inlet motor-operated valve fails to close on a high-high level signal, or the level gauge (servo-driven tank gauge) reads incorrectly low while the tank continues to fill.
+Consequence: Tank overfill, with potential loss of containment over the roof rim or through the vent system, creating a flammable vapor cloud and environmental release.
+Safeguards: Independent high-high level trip closing the inlet valve automatically, separate from the primary inventory-system level gauge (see Storage Tank TK-600 datasheet); high level alarm to the control room ahead of the trip point; bunded/diked tank area to contain any spill.
+Recommendation: Confirm the independent high-high level device is on a genuinely separate sensing element from the primary gauge, not merely a separate alarm generated from the same signal (action assigned to instrumentation engineering, fictional example) -- a shared sensing element would defeat the intent of independent protection.
+
+Guideword: LESS LEVEL
+Cause: Outlet valve fails open or a metering error causes more product to be exported than intended.
+Consequence: Low level trip of the export pump (analogous to Pump CP-100) on low suction level to prevent vortexing and pump cavitation; in the worst case, air entrainment into the downstream system if the trip is bypassed or fails.
+Safeguards: Low level alarm and pump trip on low-low tank level.
+Recommendation: None additional; existing safeguards judged adequate in this fictional example study.
+
+This is a synthetic, fictional HAZOP excerpt created for a retrieval-augmented-generation demo corpus. It does not describe any real facility, real incident, or real HAZOP study.

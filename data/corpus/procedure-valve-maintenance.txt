@@ -1,0 +1,18 @@
+SYNTHETIC EXAMPLE DOCUMENT -- Generic Maintenance Procedure
+Title: Control and Isolation Valve Maintenance Procedure
+
+Purpose
+This generic procedure covers routine maintenance of control valves (such as Control Valve CV-700) and manual isolation valves in process service. Synthetic and illustrative only.
+
+Control valve maintenance
+1. Review positioner diagnostics (where fitted) and partial stroke test results before any physical inspection.
+2. Isolate and depressurize the valve per the Lockout-Tagout procedure before removing the actuator or trim.
+3. Inspect the seat and plug/ball for erosion, wire-drawing, or seat leakage evidence; replace trim components showing wear beyond the manufacturer's allowable limits.
+4. On reassembly, verify stroke time and fail-safe action (e.g. fail-open, as specified for Control Valve CV-700) before returning the valve to service.
+
+Manual isolation valve maintenance
+1. Exercise (fully cycle) manual block valves used in safety-critical isolation duties (e.g. relief valve block valves, if fitted and administratively controlled) on the interval specified by the site's valve criticality assessment.
+2. Inspect valve packing for leakage at every operator round; re-pack or adjust the gland per the manufacturer's instructions if leakage is detected, following the Lockout-Tagout procedure if the work requires isolation.
+3. Record all valve maintenance activity against the equipment's maintenance history for trend analysis and spares planning.
+
+This is a synthetic example procedure created for a retrieval-augmented-generation demo corpus. It is illustrative only and must not be used as an actual operating instruction.

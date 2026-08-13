@@ -1,0 +1,20 @@
+SYNTHETIC EXAMPLE DOCUMENT -- Equipment Datasheet
+Equipment: Pressure Transmitter, Tag PT-800
+Service: Compressor RC-200 stage 2 discharge pressure measurement (feeds the high-high trip described in the compressor datasheet)
+
+General
+- Type: Smart 2-wire pressure transmitter, 4-20 mA HART output
+- Range: 0 to 60 bar g, calibrated span 0 to 50 bar g
+- Accuracy: +/-0.075% of calibrated span (illustrative)
+- Process connection: 1/2 inch NPT, wetted parts 316 stainless steel
+
+Safety instrumented function
+- This transmitter is part of a Safety Instrumented Function (SIF) providing high-high discharge pressure trip on Compressor RC-200, voted 2-out-of-3 with two other transmitters on the same tapping point (illustrative architecture)
+- SIF proof test interval: every 24 months, per the safety requirements specification for this loop (not reproduced in this synthetic example)
+
+Calibration and maintenance
+- Calibration interval: every 24 months, or per SIF proof test interval if shorter
+- As-found / as-left calibration data must be logged at every calibration for trend analysis
+- Any transmitter found more than 2% of span out of calibration at proof test must be investigated for root cause before being returned to service
+
+This is a synthetic example datasheet created for a retrieval-augmented-generation demo corpus. It does not describe a real, purchasable product or a real Aramco asset.

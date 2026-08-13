@@ -1,0 +1,19 @@
+SYNTHETIC EXAMPLE DOCUMENT -- System Description
+Title: Emergency Shutdown (ESD) System Description -- Compressor Station Area
+
+Purpose
+This generic document describes the emergency shutdown system philosophy for the compressor station area covered elsewhere in this corpus (Compressor RC-200, Compressor CC-300 and associated equipment). Synthetic and illustrative only.
+
+ESD levels
+- ESD Level 1 (unit shutdown): shuts down a single compressor train (e.g. Compressor CC-300 alone) in response to a train-specific trip such as the discharge pressure high-high trip from Pressure Transmitter PT-800, or confirmed flame detection at that train.
+- ESD Level 2 (area shutdown): shuts down all compressor trains and associated fired/rotating equipment in the compressor station area, initiated by a confirmed area-wide gas or fire event, or by manual activation from a break-glass station.
+- ESD Level 3 (plant-wide shutdown): outside the scope of this document; described in the site's overall ESD philosophy (not reproduced in this synthetic example).
+
+Initiators
+- Automatic: voted process trips (e.g. 2-out-of-3 pressure transmitters, 2-out-of-2 flame detectors as described in the relevant equipment datasheets), each independent of the basic process control system.
+- Manual: break-glass emergency stop stations at designated locations around the compressor station, each capable of initiating at least an ESD Level 1 shutdown of the nearest train.
+
+Restart philosophy
+An ESD trip is not reset and the equipment is not restarted until the initiating cause has been identified and corrected, and a documented restart authorization has been given by the area authority -- resetting a trip simply because the alarm has cleared, without investigating the cause, defeats the purpose of the safety system.
+
+This is a synthetic example document created for a retrieval-augmented-generation demo corpus. It does not describe any real facility's actual safety system.

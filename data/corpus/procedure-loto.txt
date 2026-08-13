@@ -1,0 +1,22 @@
+SYNTHETIC EXAMPLE DOCUMENT -- Generic Safety Procedure
+Title: Lockout-Tagout (LOTO) Procedure for Rotating and Pressurized Equipment
+
+Purpose
+This generic procedure describes the minimum steps required to isolate rotating and pressurized equipment (such as pumps and compressors) from all hazardous energy sources before maintenance work begins. It is a synthetic, illustrative example and does not represent any specific company's actual controlled procedure.
+
+Scope
+Applies to any equipment where unexpected start-up, release of stored energy, or movement of parts could injure personnel, including but not limited to Pump CP-100, Compressor RC-200 and Compressor CC-300 described elsewhere in this corpus.
+
+Procedure steps
+1. Notify affected operations personnel and review the equipment's isolation points using the equipment isolation drawing.
+2. Shut down the equipment through normal operating controls.
+3. Isolate all energy sources: electrical supply at the breaker/disconnect, process isolation valves (block and bleed where required), and any pneumatic or hydraulic supply.
+4. Apply personal locks and tags to each isolation point. Each individual working on the equipment applies their own personal lock; no work proceeds under someone else's lock alone.
+5. Release stored energy: bleed trapped process pressure to a safe location, block rotating parts, and allow hot surfaces/fluids to cool to a safe handling temperature.
+6. Verify isolation ("try before you rely"): attempt to start the equipment through normal controls and confirm it does not operate; verify zero energy state with appropriate instruments (e.g. voltage tester, pressure gauge).
+7. Perform the work.
+8. On completion, remove tools, restore guards, and account for all personnel before removing locks in the reverse order they were applied.
+
+Every lock removed by anyone other than the person who applied it requires a documented, authorized lock-removal procedure -- this is not a routine step and must not become one.
+
+This is a synthetic example procedure created for a retrieval-augmented-generation demo corpus. It is illustrative only and must not be used as an actual operating instruction.

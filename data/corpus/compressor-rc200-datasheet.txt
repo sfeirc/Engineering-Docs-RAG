@@ -1,0 +1,28 @@
+SYNTHETIC EXAMPLE DOCUMENT -- Equipment Datasheet
+Equipment: Reciprocating Compressor, Tag RC-200
+Service: Associated gas compression, stage 1
+
+General
+- Type: Two-stage, double-acting, balanced-opposed reciprocating compressor (illustrative, API 618 style)
+- Rated capacity: 1.8 MMSCFD at suction pressure 3.5 bar g
+- Discharge pressure (stage 2): 45 bar g
+- Rated speed: 990 rpm
+- Driver: 900 kW gas engine (synthetic rating)
+
+Process conditions
+- Suction temperature: 35 C design
+- Interstage cooling: shell-and-tube interstage cooler, target interstage temperature 50 C
+- Discharge temperature (stage 2), maximum: 150 C alarm, 165 C trip
+
+Protection and monitoring
+- Crankcase lube oil pressure: low-low trip at 1.0 bar g
+- Discharge pressure stage 2: high-high trip at 48 bar g, relieving to flare via PRV-400 (see relief valve datasheet)
+- Rod drop monitoring on each cylinder; alarm at 20% of allowable wear band, trip at 40%
+- Vibration monitoring on crosshead and main bearings
+
+Maintenance interval
+- Valve inspection (suction/discharge reed valves): every 4000 running hours
+- Piston ring and rider band replacement: every 16000 running hours or on performance degradation
+- Lube oil analysis: every 500 running hours
+
+This is a synthetic example datasheet created for a retrieval-augmented-generation demo corpus. It does not describe a real, purchasable product or a real Aramco asset.

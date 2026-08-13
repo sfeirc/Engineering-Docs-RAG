@@ -1,0 +1,22 @@
+SYNTHETIC EXAMPLE DOCUMENT -- Equipment Datasheet
+Equipment: Pressure Relief Valve, Tag PRV-400
+Service: Overpressure protection, Compressor RC-200 discharge (stage 2)
+
+General
+- Type: Spring-loaded, conventional (non-balanced) pressure relief valve, ASME Section VIII / API 520-526 style (illustrative)
+- Set pressure: 48 bar g (matches the discharge stage-2 high-high trip on Compressor RC-200)
+- Orifice designation: "J" (illustrative sizing, not a certified sizing calculation)
+- Rated relieving capacity: 12000 kg/h of natural gas at 10% accumulation
+- Body material: ASTM A216 WCB, trim: 316 stainless steel
+
+Installation notes
+- Relief valve discharges to the flare header via a dedicated tail pipe
+- Inlet piping pressure drop must not exceed 3% of set pressure per API 520 to avoid chatter
+- A rupture disk is NOT installed upstream in this configuration; the relief valve is the sole overpressure protection device for this line
+
+Testing and maintenance
+- Bench test (pop test) interval: every 3 years or per jurisdictional/insurance requirement, whichever is shorter
+- As-found / as-left set pressure must be recorded at every test; as-found outside +/-3% of set pressure requires investigation of the protected system's operating conditions
+- Valve is NOT to be gagged or have its set pressure field-adjusted without engineering authorization and a hot work / management-of-change record
+
+This is a synthetic example datasheet created for a retrieval-augmented-generation demo corpus. It does not describe a real, purchasable product or a real Aramco asset.

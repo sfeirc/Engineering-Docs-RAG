@@ -1,0 +1,19 @@
+SYNTHETIC EXAMPLE DOCUMENT -- Generic Operating Procedure
+Title: Centrifugal Compressor Surge Control and Prevention Procedure
+
+Purpose
+This generic procedure describes the operating philosophy that keeps a centrifugal compressor (such as Compressor CC-300) away from surge -- an unstable flow-reversal condition that can severely damage the compressor in seconds. Synthetic and illustrative only.
+
+Background
+Surge occurs when a centrifugal compressor's flow drops below the minimum stable value for its current operating speed and discharge pressure, causing a rapid flow reversal through the machine. It is mechanically damaging (thrust bearing loading, blade stress) and must be prevented, not merely detected after the fact.
+
+Prevention philosophy
+1. An anti-surge control system continuously compares the current operating point (flow and head/pressure ratio) against a surge control line held at a safety margin from the actual measured surge line (see Compressor CC-300 datasheet for the stated margin).
+2. As the operating point approaches the surge control line, the anti-surge valve (Control Valve CV-700) opens automatically to recycle flow and move the operating point away from surge, before the true surge line is reached.
+3. The anti-surge valve's fast full-stroke time is a deliberate design choice: surge can develop faster than a slow-acting valve could respond.
+
+Operator actions
+1. Do not disable or bypass the anti-surge control system to "improve" apparent efficiency; the surge margin exists precisely because the surge line measured at the factory does not perfectly match every real operating and fouling condition.
+2. Any surge event that does occur (recognized by a rapid, audible flow reversal and pressure/flow oscillation) requires an immediate reduction in compressor speed or load and a subsequent investigation before returning to the prior operating point.
+
+This is a synthetic example procedure created for a retrieval-augmented-generation demo corpus. It is illustrative only and must not be used as an actual operating instruction.

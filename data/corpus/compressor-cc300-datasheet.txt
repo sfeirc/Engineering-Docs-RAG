@@ -1,0 +1,25 @@
+SYNTHETIC EXAMPLE DOCUMENT -- Equipment Datasheet
+Equipment: Centrifugal Compressor, Tag CC-300
+Service: Export gas compression
+
+General
+- Type: Multistage centrifugal compressor, API 617 style, barrel casing (illustrative)
+- Rated capacity: 45 MMSCFD
+- Suction pressure: 20 bar g, discharge pressure: 85 bar g
+- Rated speed: 11200 rpm, driven through a speed-increasing gearbox by a 12 MW gas turbine (synthetic rating)
+
+Surge protection
+- Anti-surge control valve (Control Valve CV-700) opens automatically when the operating point approaches the surge control line, which is set with a 10% flow margin from the measured surge line
+- Surge control line established from factory performance test data (synthetic values for this example)
+- Anti-surge valve full-stroke time requirement: less than 2 seconds, per API 617 recommended practice for surge protection response
+
+Monitoring
+- Radial vibration (proximity probes): alarm at 60 micron pk-pk, trip at 90 micron pk-pk
+- Thrust position monitoring with dual redundant probes, voted 2-out-of-2 for trip
+- Discharge temperature high alarm: 140 C
+
+Maintenance interval
+- Dry gas seal panel filter change: every 2000 hours or on differential pressure alarm
+- Performance test (flow/head/efficiency curve check against design): annually
+
+This is a synthetic example datasheet created for a retrieval-augmented-generation demo corpus. It does not describe a real, purchasable product or a real Aramco asset.

@@ -1,0 +1,22 @@
+SYNTHETIC EXAMPLE DOCUMENT -- Generic Safety Procedure
+Title: H2S (Hydrogen Sulfide) Emergency Response Procedure
+
+Purpose
+This generic procedure describes the immediate response actions to a confirmed or suspected hydrogen sulfide (H2S) release. Synthetic and illustrative only.
+
+Background
+H2S is a toxic, flammable, colorless gas that can be present in some hydrocarbon streams. It is dangerous at concentrations far below its flammable range and its odor (rotten-egg smell) cannot be relied upon for warning at higher, more dangerous concentrations because it deadens the sense of smell.
+
+Immediate actions on alarm
+1. On any personal H2S monitor alarm or fixed detector alarm (see Fire and Gas Detection System datasheet for setpoints), immediately move upwind and to a higher elevation if possible, and do not attempt to identify the source.
+2. Sound the area alarm / notify the control room using the nearest means available.
+3. Do not re-enter the affected area without appropriate supplied-air respiratory protection and authorization from the incident controller.
+4. Account for all personnel at the designated muster point.
+
+First aid
+A person overcome by H2S must be removed from the affected area by rescuers wearing appropriate breathing apparatus -- a would-be rescuer without breathing apparatus becomes a second casualty and must not enter. Once in fresh air, administer first aid/CPR as trained and required, and ensure emergency medical services are called immediately.
+
+Relevant equipment
+Areas with H2S potential (for example around Compressor RC-200 and its associated piping) are covered by the fixed H2S detection described in the Fire and Gas Detection System datasheet, with alarm and evacuation setpoints as stated there.
+
+This is a synthetic example procedure created for a retrieval-augmented-generation demo corpus. It is illustrative only and must not be used as an actual operating instruction.

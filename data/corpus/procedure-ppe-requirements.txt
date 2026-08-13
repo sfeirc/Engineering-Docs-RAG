@@ -1,0 +1,19 @@
+SYNTHETIC EXAMPLE DOCUMENT -- Generic Safety Procedure
+Title: Personal Protective Equipment (PPE) Requirements
+
+Purpose
+This generic procedure lists baseline and task-specific personal protective equipment for personnel working in or visiting a process area. Synthetic and illustrative only; it does not represent a specific site's actual PPE matrix.
+
+Baseline PPE (all process areas)
+- Hard hat, safety glasses with side shields, high-visibility clothing, safety footwear with steel or composite toe protection, and hearing protection where posted.
+
+Task-specific additions
+- Confined space entry: full-body harness with retrieval line (see Confined Space Entry procedure), and supplied-air or self-contained breathing apparatus if the atmosphere cannot be made and kept safe by ventilation alone.
+- Hot work: flame-resistant coveralls, welding gloves and face shield/welding helmet appropriate to the process (see Hot Work Permit procedure).
+- Work near H2S-containing streams: personnel must carry a personal H2S monitor and have immediate access to escape breathing apparatus (see H2S Emergency Response procedure).
+- Chemical handling (e.g. cooling water treatment chemicals for Heat Exchanger HX-500, foam concentrate for Storage Tank TK-600): chemical-resistant gloves and face shield/goggles per the specific chemical's safety data sheet.
+
+General rule
+Task-specific PPE is always in addition to, not a replacement for, the baseline PPE above, unless a documented risk assessment specifically states otherwise for a defined task.
+
+This is a synthetic example procedure created for a retrieval-augmented-generation demo corpus. It is illustrative only and must not be used as an actual operating instruction.

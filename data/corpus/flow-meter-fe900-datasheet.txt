@@ -1,0 +1,21 @@
+SYNTHETIC EXAMPLE DOCUMENT -- Equipment Datasheet
+Equipment: Orifice Flow Meter, Tag FE-900
+Service: Custody-adjacent gas flow measurement downstream of Compressor CC-300 (illustrative, not an actual fiscal metering station)
+
+General
+- Type: Concentric, square-edged orifice plate with flange taps, per ISO 5167 / AGA-3 style sizing (illustrative)
+- Line size: 16 inch, orifice beta ratio: 0.55
+- Differential pressure transmitter range: 0 to 500 mbar
+- Static pressure transmitter range: 0 to 100 bar g
+- Temperature element: RTD, Pt100, 4-wire
+
+Measurement notes
+- Flow computer applies AGA-8 style compressibility correction (illustrative) using measured pressure, temperature and a fixed gas composition analysis
+- Orifice plate condition (sharpness of the upstream edge, absence of buildup or damage) directly affects measurement accuracy and must be inspected at every plate pull
+
+Maintenance interval
+- Orifice plate inspection and gas composition sample: every 12 months
+- Differential pressure transmitter calibration: every 12 months
+- Straight-run piping upstream/downstream of the orifice must be kept clear of any modification without re-evaluating the meter's accuracy per the sizing standard
+
+This is a synthetic example datasheet created for a retrieval-augmented-generation demo corpus. It does not describe a real, purchasable product or a real Aramco asset.

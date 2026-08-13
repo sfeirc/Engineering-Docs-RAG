@@ -1,0 +1,19 @@
+SYNTHETIC EXAMPLE DOCUMENT -- Equipment Datasheet
+Equipment: Fire and Gas Detection System, Compressor Station Area
+
+General
+- Gas detectors: catalytic-bead combustible gas detectors at compressor skid boundaries, plus point infrared detectors near flanges and valve packing on high-pressure gas lines
+- Flame detectors: multi-spectrum IR flame detectors covering the compressor building open sides
+- Toxic gas detection: electrochemical H2S detectors at grade, sited per a gas dispersion study (not reproduced in this synthetic example)
+
+Alarm and action logic
+- Combustible gas: first alarm at 20% LEL (local and control room), second alarm/voted trip action at 60% LEL
+- H2S: alarm at 10 ppm, evacuation alarm at 15 ppm, per typical occupational exposure limit philosophy (illustrative; refer to the H2S emergency response procedure for the actual response actions)
+- Confirmed flame detection from two independent detectors (voted 2-out-of-2) initiates automatic emergency shutdown of the affected compressor train
+
+Testing and maintenance
+- Gas detector calibration (bump test): monthly
+- Gas detector full calibration against certified test gas: every 6 months
+- Flame detector optical test: every 6 months
+
+This is a synthetic example datasheet created for a retrieval-augmented-generation demo corpus. It does not describe a real, purchasable product or a real Aramco asset.

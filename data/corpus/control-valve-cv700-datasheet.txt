@@ -1,0 +1,21 @@
+SYNTHETIC EXAMPLE DOCUMENT -- Equipment Datasheet
+Equipment: Control Valve, Tag CV-700
+Service: Compressor CC-300 anti-surge / recycle control
+
+General
+- Type: Globe-style control valve with equal-percentage trim, pneumatic diaphragm actuator, fail-open on air loss
+- Body size: 8 inch, ANSI Class 600
+- Cv (rated flow coefficient) at 100% travel: 210 (illustrative)
+- Body material: ASTM A216 WCB carbon steel, trim: 316 stainless steel with stellite hardfacing on the seat
+
+Actuation and control
+- Actuator: spring-and-diaphragm, fails open (i.e. fail-safe direction opens the recycle path) on loss of instrument air, consistent with the Compressor CC-300 surge-control philosophy
+- Positioner: smart digital positioner with partial stroke test (PST) capability
+- Stroke time (full travel, open to close): 1.8 seconds design, meeting Compressor CC-300's anti-surge response requirement of less than 2 seconds
+
+Maintenance interval
+- Partial stroke test: monthly, automated via the positioner
+- Full stroke and seat leakage test: every 24 months or at each turnaround
+- Valve trim inspection: on any detected excessive seat leakage or stroke time drift beyond 20% of design
+
+This is a synthetic example datasheet created for a retrieval-augmented-generation demo corpus. It does not describe a real, purchasable product or a real Aramco asset.

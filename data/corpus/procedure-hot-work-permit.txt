@@ -1,0 +1,17 @@
+SYNTHETIC EXAMPLE DOCUMENT -- Generic Safety Procedure
+Title: Hot Work Permit Procedure
+
+Purpose
+This generic procedure covers the controls required before any hot work (welding, cutting, grinding, or any activity producing an open flame or spark) is performed in or near a process area. Synthetic and illustrative only.
+
+Permit requirements
+1. A hot work permit must be issued by an authorized area operator/authority before work begins, valid only for the specific location, task and shift stated on the permit.
+2. A combustible gas test must be performed at the work location immediately before work starts, and must read 0% of the lower explosive limit; the test is repeated periodically for work lasting more than one shift or if conditions change.
+3. All combustible materials within a defined radius of the work location must be removed or covered with fire-resistant blankets.
+4. A fire watch with a charged extinguisher must be present for the entire duration of hot work and for a defined period after work stops (commonly referred to as a fire watch stand-down period).
+5. If hot work is to be performed on equipment that was in hydrocarbon service (such as a section of piping near Pump CP-100 or Compressor RC-200), the equipment must first be isolated per the Lockout-Tagout procedure, drained, and gas-freed, with the gas test result recorded on the permit.
+
+Restricted hot work
+Some areas or conditions (for example, work directly on a live relief valve tail pipe, or work during specific high-risk operations elsewhere in the plant) may require additional area-specific authorization beyond the standard hot work permit -- this is determined case by case by the area authority, not assumed by the permit issuer.
+
+This is a synthetic example procedure created for a retrieval-augmented-generation demo corpus. It is illustrative only and must not be used as an actual operating instruction.
