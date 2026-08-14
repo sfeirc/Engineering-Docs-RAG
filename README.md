@@ -15,6 +15,8 @@ This project builds the **retrieval** half of that pipeline rigorously and compl
 
 **A deliberate architecture decision drives the rest of this README**: this project makes **no call to any paid LLM API**, anywhere -- not in its tests, not in CI, not in its default demo. See "Why extractive-by-default" below for the reasoning; it is an engineering choice made explicit, not a limitation hidden in the fine print.
 
+**Why this matters across roles.** The retrieval methodology here is industry-agnostic even though the demo corpus is styled after industrial documents. For a tech/AI reader, this is the retrieval half of the standard RAG architecture -- chunk, index, rank, then ground a generation step -- built from scratch rather than imported, on the same BM25 baseline every dense/embedding retriever in production is still benchmarked against. For a consulting reader, "help us search reliably across our own internal documents" is one of the most common asks on a real engagement, and the rigor below (a labeled evaluation set, precision@k/recall@k/MRR measured and reported honestly rather than assumed) is the kind of evidence that justifies a retrieval architecture to a client. And the industrial-documents framing is not incidental: equipment datasheets, safety procedures, and HAZOP reports are exactly the kind of large, high-stakes technical corpora that oil & gas and other industrial operators maintain at scale, where finding the right paragraph in seconds instead of hours has direct safety and uptime value.
+
 ```mermaid
 flowchart LR
     C["data/corpus/*.txt<br/>25 synthetic engineering documents"] --> CH["chunking<br/>overlapping word windows"]
